@@ -23,5 +23,9 @@ Clean, easy-to-read code structure for beginners to learn OOP in Python.
 📌 Why this project?
 Perfect for beginners looking to grasp OOP fundamentals while building something practical. You can extend it with features like account history, interest calculation, or multi-user support.
 
+
+<img width="542" height="600" alt="Screenshot 2025-08-16 130923" src="https://github.com/user-attachments/assets/6b6ecbb4-41c5-4018-b6a9-322753b2a2cd" />
+
+
 <img width="1361" height="916" alt="Screenshot 2025-08-15 161325" src="https://github.com/user-attachments/assets/ee35f87b-9b74-41e4-ad9b-65fce3a1b159" />
 
